@@ -1,0 +1,2 @@
+// en.lproj/AppShortcuts.strings
+"intents.currentDate.appShortcutPhrase ${applicationName}" = "get date using ${applicationName}";

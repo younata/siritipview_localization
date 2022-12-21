@@ -1,0 +1,4 @@
+// en.lproj/Localizable.strings
+
+"intents.currentDate.title" = "Get current date";
+"contentView.sampleText" = "This is sample text to verify localization is working";
